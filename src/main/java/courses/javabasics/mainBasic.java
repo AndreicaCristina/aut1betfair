@@ -1,5 +1,6 @@
 package courses.javabasics;
 
+
 public class mainBasic {
     public static String name = "Test";
 

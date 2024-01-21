@@ -4,6 +4,6 @@ public enum FuelType {
     GAS,
     GPL,
     DIESEL,
-    ELECTRIC,
-    HYBRID
+    HYBRID,
+    ELECTRIC
 }
