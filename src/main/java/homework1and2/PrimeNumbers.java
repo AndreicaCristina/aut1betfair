@@ -1,4 +1,4 @@
-package homeworks;
+package homework1and2;
 
 //2. Display all the prime numbers lower than 1 000 000. Name the class (and java file) PrimeNumbers
 public class PrimeNumbers {
