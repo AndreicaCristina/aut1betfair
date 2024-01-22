@@ -28,8 +28,8 @@ public class CalculatorTest {
         System.out.println("Hello world from Testing");
     }
 
-   // @Test
-   // @Ignore
+//    @Test
+//    @Ignore
     public void verifyUnsupportedOperation() {
         try {
             c.compute(2, 5.4, "+");
