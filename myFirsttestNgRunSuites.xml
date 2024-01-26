@@ -8,7 +8,7 @@
     </groups>
     <test thread-count="5" name="aut1betfair">
         <classes>
-            <class name="courses.testng.example.MyFirstTestNGTest"/>
+            <class name="testng.example.MyFirstTestNGTest"/>
         </classes>
     </test> <!-- aut1betfair -->
 </suite> <!-- Default Suite -->

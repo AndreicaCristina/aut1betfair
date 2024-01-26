@@ -1,4 +1,4 @@
-package courses.testng.example;
+package testng.example;
 
 import courses.calculator.Calculator;
 import org.testng.Assert;
